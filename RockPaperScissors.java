@@ -1,5 +1,3 @@
-package com.sunil;
-
 import java.util.*;
 
 public class RockPaperScissors {
